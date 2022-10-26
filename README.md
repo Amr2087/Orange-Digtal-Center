@@ -1,4 +1,4 @@
-Orange Digtal Center App
+**Orange Digtal Center App**
 
 A new Flutter project for Orange Digtal Center Workshop in collaboration with Amit Learning
 
